@@ -1,1 +1,1 @@
-Homeworks for Machine Learning and Data Mining
+Homework Assignments for Machine Learning and Data Mining
